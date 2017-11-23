@@ -1,5 +1,7 @@
 # Face-ID
 A simple FaceID program demo.一个简单的FaceID程序demo.
+![img](https://github.com/wangleiTT/Face-ID/blob/master/FaceIDDemo/DemoGif.gif)
+
 //core code
 - (IBAction)loginByFaceID:(UIButton *)sender {
     
